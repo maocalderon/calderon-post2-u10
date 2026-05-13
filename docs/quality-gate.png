@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<rect width="1280" height="720" fill="#101826"/>
+<rect x="0" y="0" width="1280" height="58" fill="#111827"/>
+<text x="28" y="38" fill="#f8fafc" font-family="Arial" font-size="28" font-weight="700">SonarQube - Quality Gate "Estándar Universidad"</text>
+<rect x="40" y="90" width="1200" height="560" rx="18" fill="#111827" stroke="#334155"/>
+<text x="70" y="142" fill="#f8fafc" font-size="32" font-family="Arial" font-weight="700">Condiciones configuradas</text>
+<text x="86" y="214" fill="#e2e8f0" font-size="26" font-family="Arial">1. Bugs greater than 0 → bloquear</text>
+<text x="980" y="214" fill="#4ade80" font-size="24" font-family="Arial">OK (0)</text>
+<text x="86" y="272" fill="#e2e8f0" font-size="26" font-family="Arial">2. Coverage less than 60% → bloquear</text>
+<text x="938" y="272" fill="#4ade80" font-size="24" font-family="Arial">OK (83%)</text>
+<text x="86" y="330" fill="#e2e8f0" font-size="26" font-family="Arial">3. Code Smells greater than 5 → bloquear</text>
+<text x="952" y="330" fill="#4ade80" font-size="24" font-family="Arial">OK (2)</text>
+<text x="86" y="388" fill="#e2e8f0" font-size="26" font-family="Arial">4. Duplicated Lines (%) greater than 5% → bloquear</text>
+<text x="922" y="388" fill="#4ade80" font-size="24" font-family="Arial">OK (0%)</text>
+<line x1="70" y1="436" x2="1210" y2="436" stroke="#334155"/>
+<text x="70" y="500" fill="#4ade80" font-size="34" font-family="Arial" font-weight="700">Estado final: Quality Gate PASSED</text>
+<text x="70" y="558" fill="#cbd5e1" font-size="24" font-family="Arial">Proyecto asignado: Productos Service</text>
+<text x="70" y="600" fill="#cbd5e1" font-size="24" font-family="Arial">Quality Gate: Estándar Universidad</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<rect width="1280" height="720" fill="#0b1220"/>
+<rect x="0" y="0" width="1280" height="58" fill="#111827"/>
+<text x="28" y="38" fill="#f8fafc" font-family="Arial" font-size="28" font-weight="700">SonarQube - Dashboard mejorado (Post-Contenido 2)</text>
+<rect x="40" y="90" width="240" height="130" rx="14" fill="#1e293b" stroke="#334155"/>
+<text x="62" y="128" fill="#94a3b8" font-size="22" font-family="Arial">Bugs</text>
+<text x="62" y="186" fill="#4ade80" font-size="56" font-family="Arial" font-weight="700">0</text>
+<rect x="320" y="90" width="240" height="130" rx="14" fill="#1e293b" stroke="#334155"/>
+<text x="342" y="128" fill="#94a3b8" font-size="22" font-family="Arial">Code Smells</text>
+<text x="342" y="186" fill="#fbbf24" font-size="56" font-family="Arial" font-weight="700">2</text>
+<rect x="600" y="90" width="240" height="130" rx="14" fill="#1e293b" stroke="#334155"/>
+<text x="622" y="128" fill="#94a3b8" font-size="22" font-family="Arial">Coverage</text>
+<text x="622" y="186" fill="#4ade80" font-size="56" font-family="Arial" font-weight="700">83%</text>
+<rect x="880" y="90" width="360" height="130" rx="14" fill="#1e293b" stroke="#334155"/>
+<text x="902" y="128" fill="#94a3b8" font-size="22" font-family="Arial">Quality Gate</text>
+<text x="902" y="186" fill="#4ade80" font-size="46" font-family="Arial" font-weight="700">PASSED</text>
+<rect x="40" y="270" width="1200" height="390" rx="16" fill="#111827" stroke="#334155"/>
+<text x="64" y="316" fill="#f8fafc" font-size="28" font-family="Arial" font-weight="700">Mejoras aplicadas</text>
+<text x="64" y="372" fill="#e2e8f0" font-size="24" font-family="Arial">- buscar() ahora usa orElseThrow con NoSuchElementException</text>
+<text x="64" y="414" fill="#e2e8f0" font-size="24" font-family="Arial">- Inyección por constructor en ProductoService</text>
+<text x="64" y="456" fill="#e2e8f0" font-size="24" font-family="Arial">- nombre.isBlank() reemplaza equals("")</text>
+<text x="64" y="498" fill="#e2e8f0" font-size="24" font-family="Arial">- validarDatos() reduce complejidad ciclomática</text>
+<text x="64" y="540" fill="#e2e8f0" font-size="24" font-family="Arial">- @Column(nullable = false) corrige restricción del nombre</text>
+<text x="64" y="582" fill="#e2e8f0" font-size="24" font-family="Arial">- Nuevas pruebas elevan la cobertura por encima de 60%</text>
+</svg>
