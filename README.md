@@ -116,10 +116,10 @@ git commit -m "refactor: corregir bug orElse(null) y code smells principales"
 
 git add .github/workflows/ci.yml README.md docs
 git commit -m "docs: agregar evidencias comparativas y workflow de GitHub Actions"
-```
+
 
 ## Nombre del repositorio
-El repositorio público debe llamarse:
+
 
 ```text
 calderon-post2-u10
